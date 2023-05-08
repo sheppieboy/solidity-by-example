@@ -44,7 +44,7 @@ contract DataLocation {
         //do something with memory array
     }
 
-    function(uint[] calldata _arr) external {
+    function h(uint[] calldata _arr) external {
         //do something with calldata array
     }
 }

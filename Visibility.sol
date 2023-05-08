@@ -30,7 +30,7 @@ contract Base {
         return "internal function called";
     }
 
-    function testInternalFunc() public pure returns (string memory) {
+    function testInternalFunc() public pure virtual returns (string memory) {
         return internalFunc();
     }
 

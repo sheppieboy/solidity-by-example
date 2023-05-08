@@ -5,7 +5,7 @@ pragma solidity ^0.8.17;
  * Modifiers are code that can be run before and/or after a function call
  *
  * Modifiers can be used to:
- * - restruct access
+ * - restrict access
  * - validate inputs
  * - guard against reentrancy
  *
